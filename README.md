@@ -1,1 +1,0 @@
-# olymptrade-smart-signal
